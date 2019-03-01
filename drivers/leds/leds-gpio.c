@@ -134,6 +134,9 @@ static struct gpio_leds_priv *gpio_leds_create(struct platform_device *pdev)
 	int count, ret;
 
 	count = device_get_child_node_count(dev);
+
+	printk("[Fanning] device_get_child_node_count: %d\n", count);
+
 	if (!count)
 		return ERR_PTR(-ENODEV);
 
@@ -256,6 +259,8 @@ static int gpio_led_probe(struct platform_device *pdev)
 	struct gpio_leds_priv *priv;
 	int i, ret = 0;
 
+	printk("[Fanning] gpio_led_probe\n");
+
 	if (pdata && pdata->num_leds) {
 		priv = devm_kzalloc(&pdev->dev,
 				sizeof_gpio_leds_priv(pdata->num_leds),
@@ -264,6 +269,7 @@ static int gpio_led_probe(struct platform_device *pdev)
 			return -ENOMEM;
 
 		priv->num_leds = pdata->num_leds;
+		printk("[Fanning] Checking pdata->num_leds: %x\n", priv->num_leds);
 		for (i = 0; i < priv->num_leds; i++) {
 			const struct gpio_led *template = &pdata->leds[i];
 			struct gpio_led_data *led_dat = &priv->leds[i];
@@ -287,6 +293,7 @@ static int gpio_led_probe(struct platform_device *pdev)
 				return ret;
 		}
 	} else {
+		printk("[Fanning] else gpio_leds_create\n");
 		priv = gpio_leds_create(pdev);
 		if (IS_ERR(priv))
 			return PTR_ERR(priv);

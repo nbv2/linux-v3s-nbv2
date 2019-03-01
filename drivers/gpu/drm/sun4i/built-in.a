@@ -1,0 +1,52 @@
+!<thin>
+//                                              420       `
+sun4i_drv.o/
+sun4i_framebuffer.o/
+sun4i_crtc.o/
+sun4i_dotclock.o/
+sun4i_lvds.o/
+sun4i_tcon.o/
+sun4i_rgb.o/
+sun4i_tv.o/
+sun6i_drc.o/
+sun4i_backend.o/
+sun4i_layer.o/
+sun4i_frontend.o/
+sun4i_hdmi_ddc_clk.o/
+sun4i_hdmi_enc.o/
+sun4i_hdmi_i2c.o/
+sun4i_hdmi_tmds_clk.o/
+sun6i_mipi_dphy.o/
+sun6i_mipi_dsi.o/
+sun8i_mixer.o/
+sun8i_ui_layer.o/
+sun8i_vi_layer.o/
+sun8i_ui_scaler.o/
+sun8i_vi_scaler.o/
+sun8i_csc.o/
+sun8i_tcon_top.o/
+/0              0           0     0     644     12460     `
+/13             0           0     0     644     2296      `
+/34             0           0     0     644     5272      `
+/48             0           0     0     644     4444      `
+/66             0           0     0     644     4564      `
+/80             0           0     0     644     22516     `
+/94             0           0     0     644     5332      `
+/107            0           0     0     644     10048     `
+/119            0           0     0     644     5648      `
+/132           /0           0     0     644     17916     `
+/149            0           0     0     644     4472      `
+/164            0           0     0     644     11496     `
+/182            0           0     0     644     3056      `
+/204            0           0     0     644     12416     `
+/222            0           0     0     644     5292      `
+/240            0           0     0     644     3576      `
+/263            0           0     0     644     5512      `
+/282            0           0     0     644     14384     `
+/300            0           0     0     644     10668     `
+/315            0           0     0     644     6932      `
+/333            0           0     0     644     7040      `
+/351            0           0     0     644     3272      `
+/370            0           0     0     644     14552     `
+/389            0           0     0     644     2004      `
+/402            0           0     0     644     8436      `

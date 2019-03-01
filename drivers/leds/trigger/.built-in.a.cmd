@@ -1,0 +1,1 @@
+cmd_drivers/leds/trigger/built-in.a := rm -f drivers/leds/trigger/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/leds/trigger/built-in.a drivers/leds/trigger/ledtrig-heartbeat.o drivers/leds/trigger/ledtrig-default-on.o

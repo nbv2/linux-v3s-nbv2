@@ -1,0 +1,1 @@
+cmd_sound/drivers/built-in.a := rm -f sound/drivers/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD sound/drivers/built-in.a sound/drivers/opl3/built-in.a sound/drivers/opl4/built-in.a sound/drivers/mpu401/built-in.a sound/drivers/vx/built-in.a sound/drivers/pcsp/built-in.a

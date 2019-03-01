@@ -1,0 +1,1 @@
+cmd_drivers/reset/built-in.a := rm -f drivers/reset/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/reset/built-in.a drivers/reset/core.o drivers/reset/hisilicon/built-in.a drivers/reset/reset-simple.o drivers/reset/reset-sunxi.o

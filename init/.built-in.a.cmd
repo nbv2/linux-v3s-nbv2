@@ -1,0 +1,1 @@
+cmd_init/built-in.a := rm -f init/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD init/built-in.a init/main.o init/version.o init/do_mounts.o init/do_mounts_initrd.o init/initramfs.o init/calibrate.o init/init_task.o
