@@ -1,1 +1,0 @@
-cmd_kernel/events/built-in.a := rm -f kernel/events/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD kernel/events/built-in.a kernel/events/core.o kernel/events/ring_buffer.o kernel/events/callchain.o kernel/events/hw_breakpoint.o

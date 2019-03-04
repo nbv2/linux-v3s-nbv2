@@ -1,1 +1,0 @@
-cmd_drivers/ptp/built-in.a := rm -f drivers/ptp/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/ptp/built-in.a drivers/ptp/ptp_clock.o drivers/ptp/ptp_chardev.o drivers/ptp/ptp_sysfs.o

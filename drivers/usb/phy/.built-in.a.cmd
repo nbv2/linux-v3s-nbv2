@@ -1,1 +1,0 @@
-cmd_drivers/usb/phy/built-in.a := rm -f drivers/usb/phy/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/usb/phy/built-in.a drivers/usb/phy/phy.o drivers/usb/phy/of.o drivers/usb/phy/phy-generic.o

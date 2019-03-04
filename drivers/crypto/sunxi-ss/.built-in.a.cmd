@@ -1,1 +1,0 @@
-cmd_drivers/crypto/sunxi-ss/built-in.a := rm -f drivers/crypto/sunxi-ss/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/crypto/sunxi-ss/built-in.a drivers/crypto/sunxi-ss/sun4i-ss-core.o drivers/crypto/sunxi-ss/sun4i-ss-hash.o drivers/crypto/sunxi-ss/sun4i-ss-cipher.o

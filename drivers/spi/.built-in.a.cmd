@@ -1,1 +1,0 @@
-cmd_drivers/spi/built-in.a := rm -f drivers/spi/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/spi/built-in.a drivers/spi/spi.o drivers/spi/spi-mem.o drivers/spi/spi-sun4i.o drivers/spi/spi-sun6i.o

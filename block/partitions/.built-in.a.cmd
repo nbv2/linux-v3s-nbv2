@@ -1,1 +1,0 @@
-cmd_block/partitions/built-in.a := rm -f block/partitions/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD block/partitions/built-in.a block/partitions/check.o block/partitions/msdos.o block/partitions/efi.o

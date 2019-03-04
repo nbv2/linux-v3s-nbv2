@@ -1,1 +1,0 @@
-cmd_drivers/opp/built-in.a := rm -f drivers/opp/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/opp/built-in.a drivers/opp/core.o drivers/opp/cpu.o drivers/opp/of.o drivers/opp/debugfs.o

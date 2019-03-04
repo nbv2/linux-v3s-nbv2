@@ -2830,3 +2830,4 @@ tools/virtio/virtio-trace
 virt/kvm
 virt/kvm/arm
 virt/kvm/arm/vgic
+drivers/leds/trigger

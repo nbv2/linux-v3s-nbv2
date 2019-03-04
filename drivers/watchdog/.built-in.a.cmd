@@ -1,1 +1,0 @@
-cmd_drivers/watchdog/built-in.a := rm -f drivers/watchdog/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/watchdog/built-in.a drivers/watchdog/watchdog_core.o drivers/watchdog/watchdog_dev.o drivers/watchdog/sunxi_wdt.o

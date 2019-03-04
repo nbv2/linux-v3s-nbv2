@@ -1,1 +1,0 @@
-cmd_vmlinux := /bin/bash scripts/link-vmlinux.sh /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld  -EL -p --no-undefined -X --pic-veneer  --build-id ;  true

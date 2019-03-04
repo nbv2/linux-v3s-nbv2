@@ -1,3 +1,0 @@
-kernel/drivers/mtd/devices/block2mtd.ko
-kernel/drivers/mtd/devices/m25p80.ko
-kernel/drivers/mtd/devices/mchp23k256.ko

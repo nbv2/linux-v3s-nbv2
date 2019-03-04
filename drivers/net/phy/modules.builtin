@@ -1,4 +1,0 @@
-kernel/drivers/net/phy/libphy.ko
-kernel/drivers/net/phy/mdio-mux.ko
-kernel/drivers/net/phy/mdio-sun4i.ko
-kernel/drivers/net/phy/fixed_phy.ko

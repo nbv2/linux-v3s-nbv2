@@ -1,1 +1,0 @@
-cmd_drivers/irqchip/built-in.a := rm -f drivers/irqchip/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/irqchip/built-in.a drivers/irqchip/irqchip.o drivers/irqchip/irq-sun4i.o drivers/irqchip/irq-sunxi-nmi.o drivers/irqchip/irq-gic.o drivers/irqchip/irq-gic-common.o

@@ -1,1 +1,0 @@
-cmd_kernel/cgroup/built-in.a := rm -f kernel/cgroup/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD kernel/cgroup/built-in.a kernel/cgroup/cgroup.o kernel/cgroup/rstat.o kernel/cgroup/namespace.o kernel/cgroup/cgroup-v1.o

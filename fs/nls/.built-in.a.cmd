@@ -1,1 +1,0 @@
-cmd_fs/nls/built-in.a := rm -f fs/nls/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD fs/nls/built-in.a fs/nls/nls_base.o fs/nls/nls_cp437.o fs/nls/nls_iso8859-1.o

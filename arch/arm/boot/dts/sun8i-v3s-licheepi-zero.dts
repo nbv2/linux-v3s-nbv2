@@ -62,17 +62,22 @@
 		blue_led {
 			label = "licheepi:blue:usr";
 			gpios = <&pio 6 1 GPIO_ACTIVE_LOW>; /* PG1 */
+			linux,default-trigger = "v3snbv2";
+			default-state = "on";
 		};
 
 		green_led {
 			label = "licheepi:green:usr";
 			gpios = <&pio 6 0 GPIO_ACTIVE_LOW>; /* PG0 */
+			linux,default-trigger = "heartbeat";
 			default-state = "on";
 		};
 
 		red_led {
 			label = "licheepi:red:usr";
-			gpios = <&pio 6 2 GPIO_ACTIVE_HIGH>; /* PG2 */
+			gpios = <&pio 6 2 GPIO_ACTIVE_LOW>; /* PG2 */
+			linux,default-trigger = "heartbeat";
+			default-state = "on";
 		};
 	};
 };

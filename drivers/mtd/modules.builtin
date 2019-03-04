@@ -1,8 +1,0 @@
-kernel/drivers/mtd/mtd.ko
-kernel/drivers/mtd/ofpart.ko
-kernel/drivers/mtd/cmdlinepart.ko
-kernel/drivers/mtd/chips/chipreg.ko
-kernel/drivers/mtd/devices/block2mtd.ko
-kernel/drivers/mtd/devices/m25p80.ko
-kernel/drivers/mtd/devices/mchp23k256.ko
-kernel/drivers/mtd/spi-nor/spi-nor.ko

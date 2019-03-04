@@ -1,1 +1,0 @@
-cmd_drivers/i2c/busses/built-in.a := rm -f drivers/i2c/busses/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/i2c/busses/built-in.a drivers/i2c/busses/i2c-mv64xxx.o drivers/i2c/busses/i2c-sun6i-p2wi.o

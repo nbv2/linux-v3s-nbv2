@@ -189,6 +189,8 @@ static struct notifier_block heartbeat_panic_nb = {
 
 static int __init heartbeat_trig_init(void)
 {
+	printk("[Fanning] heartbeat_trig_init\n");
+
 	int rc = led_trigger_register(&heartbeat_led_trigger);
 
 	if (!rc) {

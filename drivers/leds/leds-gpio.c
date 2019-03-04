@@ -321,8 +321,8 @@ static struct platform_driver gpio_led_driver = {
 	.probe		= gpio_led_probe,
 	.shutdown	= gpio_led_shutdown,
 	.driver		= {
-		.name	= "leds-gpio",
-		.of_match_table = of_gpio_leds_match,
+	.name	= "leds-gpio",
+	.of_match_table = of_gpio_leds_match,
 	},
 };
 

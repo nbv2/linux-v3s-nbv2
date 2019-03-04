@@ -1,1 +1,0 @@
-cmd_kernel/dma/built-in.a := rm -f kernel/dma/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD kernel/dma/built-in.a kernel/dma/mapping.o kernel/dma/contiguous.o kernel/dma/coherent.o

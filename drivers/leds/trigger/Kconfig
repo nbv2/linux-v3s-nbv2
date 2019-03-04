@@ -136,4 +136,11 @@ config LEDS_TRIGGER_PATTERN
 	  which is a series of tuples, of brightness and duration (ms).
 	  If unsure, say N
 
+config LEDS_TRIGGER_V3SNBV2
+	tristate "LED Pattern Trigger for V3SNBV2 custom board"
+	help
+	  This allows LEDs to be controlled by a software or hardware pattern
+	  which is a series of tuples, of brightness and duration (ms).
+	  If unsure, say N
+
 endif # LEDS_TRIGGERS

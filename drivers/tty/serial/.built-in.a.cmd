@@ -1,1 +1,0 @@
-cmd_drivers/tty/serial/built-in.a := rm -f drivers/tty/serial/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/tty/serial/built-in.a drivers/tty/serial/serial_core.o drivers/tty/serial/earlycon.o drivers/tty/serial/8250/built-in.a

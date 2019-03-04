@@ -1,1 +1,0 @@
-cmd_drivers/hid/usbhid/built-in.a := rm -f drivers/hid/usbhid/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/hid/usbhid/built-in.a drivers/hid/usbhid/hid-core.o

@@ -1,1 +1,0 @@
-cmd_drivers/input/keyboard/built-in.a := rm -f drivers/input/keyboard/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/input/keyboard/built-in.a drivers/input/keyboard/atkbd.o drivers/input/keyboard/sun4i-lradc-keys.o

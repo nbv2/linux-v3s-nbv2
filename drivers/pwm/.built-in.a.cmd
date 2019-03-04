@@ -1,1 +1,0 @@
-cmd_drivers/pwm/built-in.a := rm -f drivers/pwm/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/pwm/built-in.a drivers/pwm/core.o drivers/pwm/sysfs.o drivers/pwm/pwm-sun4i.o

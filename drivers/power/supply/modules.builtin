@@ -1,3 +1,0 @@
-kernel/drivers/power/supply/axp20x_usb_power.ko
-kernel/drivers/power/supply/axp20x_battery.ko
-kernel/drivers/power/supply/axp20x_ac_power.ko

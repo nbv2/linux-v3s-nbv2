@@ -1,1 +1,0 @@
-cmd_fs/debugfs/built-in.a := rm -f fs/debugfs/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD fs/debugfs/built-in.a fs/debugfs/inode.o fs/debugfs/file.o

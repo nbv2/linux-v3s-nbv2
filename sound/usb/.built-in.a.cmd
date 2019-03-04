@@ -1,1 +1,0 @@
-cmd_sound/usb/built-in.a := rm -f sound/usb/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD sound/usb/built-in.a sound/usb/misc/built-in.a sound/usb/usx2y/built-in.a sound/usb/caiaq/built-in.a sound/usb/6fire/built-in.a sound/usb/hiface/built-in.a sound/usb/bcd2000/built-in.a

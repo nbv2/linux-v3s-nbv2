@@ -1,1 +1,0 @@
-cmd_security/built-in.a := rm -f security/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD security/built-in.a security/keys/built-in.a security/commoncap.o security/min_addr.o

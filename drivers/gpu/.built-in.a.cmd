@@ -1,1 +1,0 @@
-cmd_drivers/gpu/built-in.a := rm -f drivers/gpu/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/gpu/built-in.a drivers/gpu/drm/built-in.a drivers/gpu/vga/built-in.a
