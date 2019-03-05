@@ -1,0 +1,1 @@
+cmd_drivers/base/firmware_loader/built-in.a := rm -f drivers/base/firmware_loader/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/base/firmware_loader/built-in.a drivers/base/firmware_loader/fallback_table.o drivers/base/firmware_loader/main.o

@@ -1,0 +1,15 @@
+!<thin>
+//                                              164       `
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+supply/axp20x_usb_power.o/
+supply/axp20x_battery.o/
+supply/axp20x_ac_power.o/
+
+/0              0           0     0     644     23160     `
+/28             0           0     0     644     12264     `
+/57             0           0     0     644     3016      `
+/85             0           0     0     644     7676      `
+/112            0           0     0     644     9856      `
+/137            0           0     0     644     6508      `

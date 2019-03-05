@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.a := rm -f drivers/mfd/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/mfd/built-in.a drivers/mfd/sun6i-prcm.o drivers/mfd/mfd-core.o drivers/mfd/ac100.o drivers/mfd/axp20x.o drivers/mfd/axp20x-i2c.o drivers/mfd/axp20x-rsb.o drivers/mfd/syscon.o

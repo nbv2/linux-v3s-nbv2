@@ -1,0 +1,1 @@
+cmd_sound/soc/sunxi/built-in.a := rm -f sound/soc/sunxi/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD sound/soc/sunxi/built-in.a sound/soc/sunxi/sun4i-codec.o sound/soc/sunxi/sun8i-codec-analog.o sound/soc/sunxi/sun8i-codec.o sound/soc/sunxi/sun8i-adda-pr-regmap.o

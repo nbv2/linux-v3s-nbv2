@@ -1,0 +1,1 @@
+cmd_drivers/staging/rtl8723bs/r8723bs.ko := /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o drivers/staging/rtl8723bs/r8723bs.ko drivers/staging/rtl8723bs/r8723bs.o drivers/staging/rtl8723bs/r8723bs.mod.o ;  true

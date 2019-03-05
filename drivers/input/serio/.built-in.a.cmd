@@ -1,0 +1,1 @@
+cmd_drivers/input/serio/built-in.a := rm -f drivers/input/serio/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/input/serio/built-in.a drivers/input/serio/serio.o drivers/input/serio/serport.o drivers/input/serio/libps2.o

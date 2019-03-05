@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/bridge/built-in.a := rm -f drivers/gpu/drm/bridge/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/gpu/drm/bridge/built-in.a drivers/gpu/drm/bridge/dumb-vga-dac.o drivers/gpu/drm/bridge/synopsys/built-in.a

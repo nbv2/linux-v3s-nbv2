@@ -1,0 +1,16 @@
+!<thin>
+//                                              136       `
+led-core.o/
+led-class.o/
+led-triggers.o/
+leds-gpio.o/
+trigger/ledtrig-heartbeat.o/
+trigger/ledtrig-v3s.o/
+trigger/ledtrig-default-on.o/
+/0              0           0     0     644     7796      `
+/12             0           0     0     644     9708      `
+/25             0           0     0     644     12204     `
+/41             0           0     0     644     7236      `
+/54             0           0     0     644     5644      `
+/83             0           0     0     644     5796      `
+/106            0           0     0     644     2804      `

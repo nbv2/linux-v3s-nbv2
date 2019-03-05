@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/built-in.a := rm -f drivers/media/rc/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/media/rc/built-in.a drivers/media/rc/keymaps/built-in.a drivers/media/rc/rc-main.o drivers/media/rc/rc-ir-raw.o drivers/media/rc/sunxi-cir.o

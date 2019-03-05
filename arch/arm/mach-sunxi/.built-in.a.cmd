@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-sunxi/built-in.a := rm -f arch/arm/mach-sunxi/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD arch/arm/mach-sunxi/built-in.a arch/arm/mach-sunxi/sunxi.o arch/arm/mach-sunxi/mc_smp.o arch/arm/mach-sunxi/headsmp.o arch/arm/mach-sunxi/platsmp.o

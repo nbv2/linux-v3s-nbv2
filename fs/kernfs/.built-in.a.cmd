@@ -1,0 +1,1 @@
+cmd_fs/kernfs/built-in.a := rm -f fs/kernfs/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD fs/kernfs/built-in.a fs/kernfs/mount.o fs/kernfs/inode.o fs/kernfs/dir.o fs/kernfs/file.o fs/kernfs/symlink.o

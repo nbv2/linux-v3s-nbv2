@@ -1,0 +1,21 @@
+!<thin>
+//                                              118       `
+core.o/
+dummy.o/
+fixed-helper.o/
+helpers.o/
+devres.o/
+of_regulator.o/
+fixed.o/
+axp20x-regulator.o/
+gpio-regulator.o/
+
+/0              0           0     0     644     71976     `
+/8              0           0     0     644     3840      `
+/17             0           0     0     644     1808      `
+/33             0           0     0     644     13116     `
+/44             0           0     0     644     9300      `
+/54             0           0     0     644     10952     `
+/70             0           0     0     644     5164      `
+/79             0           0     0     644     37028     `
+/99             0           0     0     644     8976      `

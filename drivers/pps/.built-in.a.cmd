@@ -1,0 +1,1 @@
+cmd_drivers/pps/built-in.a := rm -f drivers/pps/built-in.a; /home/fanning/workspace/tools/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcSTPD drivers/pps/built-in.a drivers/pps/pps.o drivers/pps/kapi.o drivers/pps/sysfs.o drivers/pps/clients/built-in.a drivers/pps/generators/built-in.a
